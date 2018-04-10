@@ -22,5 +22,7 @@ for($a = 0 ; $a < count($chrAry) ; $a++)
  }}
 
 ?>
+
+<a href="index.php">HOME</a>
 </body>
 </html>
